@@ -59,8 +59,8 @@ where:
 
 **Publication**  
 Audio-visual database for Spanish-based speech recognition systems.   
-Córdova Diana, Terven Juan, Romero Alejandro, and Herrera Ana
-En revision.
+Córdova Diana, Terven Juan, Romero Alejandro, and Herrera Ana  
+Under revision at Mexican International Conference on Artificial Intelligence
 
 Licence
 ----
